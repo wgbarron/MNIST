@@ -1,2 +1,2 @@
 # MNIST
-Creating a dense neural network to predict from hand written digits 0-9 what numbers the drawing represent.
+Creating a dense neural network to be able to predict the number a hand written digit corresponds to.
